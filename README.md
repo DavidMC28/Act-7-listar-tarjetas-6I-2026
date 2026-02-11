@@ -1,3 +1,4 @@
 # Act-7-listar-tarjetas-6I-2026
 listado de tarjetas
-<img width="1222" height="328" alt="listado" src="https://github.com/user-attachments/assets/c721e3b2-e722-438f-a36d-c0ec7e47d39d" />
+
+<img width="1230" height="317" alt="lista" src="https://github.com/user-attachments/assets/e69390dd-73e9-4e12-bd9b-436c09fe2eb2" />
