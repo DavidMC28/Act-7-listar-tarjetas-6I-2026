@@ -23,7 +23,7 @@ class LosEmpleados extends StatelessWidget {
       appBar: AppBar(
         // Título del AppBar
         title: const Text(
-          'Empleados',
+          'Abarrotes',
           style: TextStyle(color: Colors.white), // Texto en color blanco
         ),
         
